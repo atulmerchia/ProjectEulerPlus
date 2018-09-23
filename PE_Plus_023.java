@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class PE_Plus_23 {
+public class PE_Plus_023 {
     static boolean [] isAbundant = new boolean[100000];
 
     public static void main(String[] args) {

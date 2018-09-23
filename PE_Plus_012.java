@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class PE_Plus_12 {
+public class PE_Plus_012 {
     public static void main(String[] args) {
         int [] ans = new int[1001];
         int tri = 3;

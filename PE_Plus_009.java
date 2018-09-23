@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class PE_Plus_9 {
+public class PE_Plus_009 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

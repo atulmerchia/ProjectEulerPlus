@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class PE_Plus_10 {
+public class PE_Plus_010 {
     static long[] sums;
 
     public static void main(String[] args) {

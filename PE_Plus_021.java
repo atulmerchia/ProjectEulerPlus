@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class PE_Plus_21 {
+public class PE_Plus_021 {
 
     public static void main(String[] args) {
         TreeSet<Integer> amicables = new TreeSet<Integer>();
